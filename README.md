@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello, I'm Emre Erol! 👋
 
-<!--
-**Emre005/Emre005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello! I'm Emre Erol, a software developer with a passion for exploring various technologies. I particularly enjoy working with C# .NET and SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I Work With
+
+- **Programming Languages:** I have experience in application development using C# .NET.
+- **Database:** I've developed simple database applications using SQL Server.
+- **Image Processing:** I've worked on basic image processing projects with Raspberry Pi 3.
+
+
+## Contact
+
+LinkedIn: [Emre Erol](https://www.linkedin.com/in/emreerol/)
+Twitter: [@emreerol](https://twitter.com/emreerol)
+
