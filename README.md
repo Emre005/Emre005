@@ -1,14 +1,15 @@
 ### Hi there 👋, my name is Emre
 ![](https://pbs.twimg.com/profile_banners/1622403612/1700566028/600x200)
 
-Hello! I'm Emre Erol, a software developer with a passion for exploring various technologies. I particularly enjoy working with Python, C# .NET and SQL.
+Hello! I'm Emre Erol, a software developer with a passion for exploring various technologies. I particularly enjoy working with Python, C, C# .NET and SQL.
 ## Technologies I Work With
 
-- **Programming Languages:** I have experience in application development using C# .NET.
+- **Programming Languages:** I have experience in application development using C, C# .NET.
+- **Embedded System:** I have been develop projects with Esp32.
 - **Database:** I've developed simple database applications using SQL Server.
 - **Image Processing:** I've worked on basic image processing projects with Raspberry Pi 3.
 
-Skills: .Net / C# / Python/ HTML /
+Skills: .Net /C / C# / Python/ HTML /
 
 
 
